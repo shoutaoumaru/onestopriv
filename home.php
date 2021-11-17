@@ -382,7 +382,7 @@
             </a>
           </div>
         </div>
-        <p class="industry-text">※上記以外も様々な業種に対応しております</p>
+        <p class="industry-text02">※上記以外も様々な業種に対応しております</p>
         <a class="contact-link" href="/contact">
           <button type="button" class="btn btn-main my-4 mx-auto view-sp">まずお問い合わせ<i class="fas fa-chevron-right ms-3"></i></button>
         </a>
