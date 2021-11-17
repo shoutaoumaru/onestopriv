@@ -360,7 +360,7 @@ main,footer {
     font-size: 14px;
     padding-left: 15px;
   }
-  .industry-text {
+  .industry-text,.industry-text02 {
     font-size: 16px;
   }
 }
