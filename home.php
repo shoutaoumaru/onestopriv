@@ -274,18 +274,23 @@
             </a>
           </div>
           <div class="slide-content">
+            <a href="https://restaurant-6.netlify.app/" target="_blank">
+              <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/template/food-6.jpg" alt="">
+            </a>
+          </div>
+          <div class="slide-content">
             <a href="https://restaurant-riv-3.netlify.app/" target="_blank">
               <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/template/food-3.jpg" alt="">
             </a>
           </div>
           <div class="slide-content">
-            <a href="https://restaurant-riv-4.netlify.app/" target="_blank">
-              <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/template/food-4.jpg" alt="">
+            <a href="https://restaurant-riv-5.netlify.app/" target="_blank">
+              <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/template/food-5.jpg" alt="">
             </a>
           </div>
           <div class="slide-content">
-            <a href="https://restaurant-riv-5.netlify.app/" target="_blank">
-              <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/template/food-5.jpg" alt="">
+            <a href="https://restaurant-riv-4.netlify.app/" target="_blank">
+              <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/images/template/food-4.jpg" alt="">
             </a>
           </div>
         </div>
