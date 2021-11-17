@@ -1,0 +1,75 @@
+.m-color,h2 {
+  color: rgba(39, 0, 252, 0.7);
+}
+.bg-m-color {
+  background: rgba(39, 0, 252, 0.7);
+}
+.bg-main {
+  background: #EDF3FF;
+}
+.bg-sub {
+  background: #fcfaf6;
+}
+.badge {
+  background: linear-gradient(90deg,#709dff 0%,#2700fcb3 100%);
+  font-weight: 400;
+}
+
+.btn-main {
+  background: linear-gradient(to right, #FFB000, #FF6B8E);
+  color: white;
+}
+.keiko {
+  background: linear-gradient(transparent 70%,rgba(255,231,62,.6) 50%);
+}
+
+
+.beauty {
+  background: linear-gradient(90deg,rgba(196, 55, 104, 0.048) 0%,#fc006113 100%);
+}
+.beauty > h3 {
+  color: rgba(156, 20, 68, 0.062);
+}
+.beauty > .title {
+  border-left: 6px solid rgba(156, 20, 68, 0.747);
+}
+.food {
+  background: linear-gradient(90deg,rgba(244, 140, 12, 0.055) 0%,#fc710034 100%);
+}
+.food > h3 {
+  color: rgba(244, 140, 12, 0.1);
+}
+
+.food > .title {
+  border-left: 6px solid rgba(244, 140, 12, 0.767);
+}
+.dental {
+  background: linear-gradient(90deg,rgba(210, 253, 253, 0.082) 0%,rgba(210, 253, 253, 0.425) 100%);
+}
+.dental > .title {
+  border-left: 6px solid rgba(42, 205, 234, 0.623);
+}
+.dental > h3 {
+  color: rgba(210, 253, 253, 0.8);
+}
+
+.professional {
+  background: linear-gradient(90deg,rgba(218, 214, 248, 0.055) 0%,rgba(111, 163, 241, 0.233) 100%);
+}
+.professional > h3 {
+  color: rgba(111, 163, 241, 0.164);
+}
+.professional > .title {
+  border-left: 6px solid rgba(111, 163, 241, 0.233)
+}
+.other {
+  background: linear-gradient(90deg,rgba(217, 248, 214, 0.055) 0%,rgba(217, 248, 214, 0.37) 100%);
+}
+.other > h3 {
+  color: rgba(217, 248, 214, 0.8);
+}
+.other > .title {
+  border-left: 6px solid rgba(36, 156, 20, 0.521);
+}
+
+
