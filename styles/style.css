@@ -56,11 +56,22 @@ main,footer {
 /* top */
 #top {
   position: relative;
-  background: url(../images/bg-sp.png);
+  background: url(../images/bg@sp.jpg);
   background-size: cover;
 }
+.top-lanking {
+  position: absolute;
+  top: 3px;
+  right: 0;
+}
+.top-lanking img {
+  padding: 15px;
+  width: 150px;
+  height: 100px;
+  object-fit: contain;
+}
 .top-inner {
-  margin-top: 70px;
+  margin-top: 80px;
 }
 .top-title {
   display: inline-block;
@@ -93,10 +104,22 @@ main,footer {
   font-size: 1rem !important;
 }
 @media (min-width:600px) {
+  #top {
+    background: url(../images/bg@pc.jpg);
+    background-size: cover;
+  }
   .top-inner {
     display: flex;
     justify-content: space-between;
     margin-top: 100px;
+  }
+  .top-lanking {
+    top: 1px;
+    right: 10px;
+  }
+  .top-lanking img {
+    width: 180px;
+    height: 120px;
   }
   .top-title p {
     margin-bottom: 20px;
@@ -143,15 +166,19 @@ main,footer {
   .price {
     font-size: 3.4rem !important;
   }
-  #top {
-    background: url(../images/bg.jpg);
-    background-size: cover;
-  }
 }
 @media (min-width:1200px) {
   .top-inner {
     margin-top: 160px;
     padding: 0 150px 30px 150px;
+  }
+  .top-lanking {
+    top: 20px;
+    right: 25px;
+  }
+  .top-lanking img {
+    width: 240px;
+    height: 160px;
   }
   .top-title p {
     margin-bottom: 40px;
@@ -183,7 +210,7 @@ main,footer {
 }
 @media (max-width: 959px) {
   #top #main-img {
-    width: 68%;
+    width: 64%;
   }
   .pc-desc {
     display: none;

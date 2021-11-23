@@ -3,6 +3,9 @@
     <!-- ファーストビュー -->
     <section id="top" class="p-md-4 p-3">
       <div class="top-inner">
+        <div class="top-lanking">
+          <img src="<?php echo get_template_directory_uri(); ?>/images/lanking.png" alt="">
+        </div>
         <div class="top-wrap">
           <h1 class="top-title">
             <p>初期費用・制作費 <span class="m-color price">0<span class="fs-3">円</span></span></p>
