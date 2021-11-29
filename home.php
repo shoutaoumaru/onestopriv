@@ -9,7 +9,7 @@
         <div class="top-wrap">
           <h1 class="top-title">
             <p>初期費用・制作費 <span class="m-color price">0<span class="fs-3">円</span></span></p>
-            <p>月々 <span class="m-color price">4,980<span class="fs-3">円</span></span>で作れる</p>
+            <p>月々 <span class="m-color price">3,980<span class="fs-3">円</span></span>で作れる</p>
             <p>
               <span class="txt-md"><span class="dot">効果の出る</span>ホームページ制作</span>
             </p>
@@ -81,13 +81,13 @@
     <section id="price" class="p-lg-5 p-3">
       <div class="text-center py-5 position-relative">
         <p class="sub-title">\安心の料金プラン/</p>
-        <h2>利用料は月額の4,980円のみ</h2>
+        <h2>利用料は月額の3,980円のみ</h2>
         <span class="position-absolute balloon balloon-right fs-5 fw-bold">解約も自由！</span> 
       </div>
       <div class="row row-cols-lg-2">
-        <img class="img-fluid my-3 fadeIn" src="<?php echo get_template_directory_uri(); ?>/images/price4980.png" alt="">
+        <img class="img-fluid my-3 fadeIn" src="<?php echo get_template_directory_uri(); ?>/images/price3980.png" alt="">
         <div class="my-3 p-md-5">
-          <p class="mb-4">One Stop Rivは、月額定額制(サブスクリプション型)のホームページ制作サービスです。月額制なので製作費は0円、月額4,980円(+税)だけでご利用頂けます。</p>
+          <p class="mb-4">One Stop Rivは、月額定額制(サブスクリプション型)のホームページ制作サービスです。月額制なので製作費は0円、月額3,980円(+税)だけでご利用頂けます。</p>
           <p>※ご契約期間の縛り、早期解約の違約金は一切ないので、必要性を感じなくなればいつでもご解約頂けます。</p>
         </div>
       </div>
@@ -436,7 +436,7 @@
             </tr>
             <tr class="bg-light">
               <th scope="row" class="bg-light">月額保守運用</th>
-              <td class="riv">4,980<span class="small">円</td>
+              <td class="riv">3,980<span class="small">円</td>
               <td>20,000<span class="small">円〜</td>
               <td>10,000<span class="small">円〜</td>
               <td>10,000<span class="small">円〜</td>
@@ -478,7 +478,7 @@
             </tr>
             <tr class="year-cost">
               <th scope="row" class="bg-light">年間コスト<span class="br small"></th>
-              <td class="riv">59,760<span class="small">円</td>
+              <td class="riv">47,760<span class="small">円</td>
               <td>2,252,000<span class="small">円</td>
               <td>564,000<span class="small">円</td>
               <td>864,000<span class="small">円</td>
@@ -546,7 +546,7 @@
             <div class="bg-white shadow m-3 p-lg-5 p-4">
               <div class="d-flex align-items-center">
                 <p class="fs-1 fw-bold m-color">Q</p>
-                <h3 class="mx-3">月額4,980円(税抜)のほかにかかる費用はありますか？</h3>
+                <h3 class="mx-3">月額3,980円(税抜)のほかにかかる費用はありますか？</h3>
               </div>
 
               <div class="d-flex mt-4">
@@ -592,7 +592,7 @@
 
               <div class="d-flex mt-4">
                 <p class="fs-1 fw-bold answer">A</p>
-                <p class="mx-3">OneStopRivではサーバー・ドメイン料金も全て4,980円に含まれておりますので、ご安心下さい。</p>
+                <p class="mx-3">OneStopRivではサーバー・ドメイン料金も全て3,980円に含まれておりますので、ご安心下さい。</p>
               </div>
             </div>
           </div>
@@ -622,7 +622,7 @@
         <img class="footer-logo" src="<?php echo get_template_directory_uri(); ?>/images/onestopriv2.png" alt="">
       </a>
       <div class="footer-desc">
-        <p class="f-description mt-3 mb-4">制作費・初期費用 0 円<span class="br">月々4,980円で作れる<br>効果の出るホームページ制作</p>
+        <p class="f-description mt-3 mb-4">制作費・初期費用 0 円<span class="br">月々3,980円で作れる<br>効果の出るホームページ制作</p>
         <div class="information lh-lg">
           <p>運営会社：RivRound株式会社<span class="br">福岡県福岡市博多区 3-27-25 第二岡部ビル 9F</p>
           <div>
