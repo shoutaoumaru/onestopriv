@@ -80,14 +80,14 @@
     <!-- 料金プラン -->
     <section id="price" class="p-lg-5 p-3">
       <div class="text-center py-5 position-relative">
-        <p class="sub-title">\安心の料金プラン/</p>
+        <p class="sub-title">\安心の料金設定/</p>
         <h2>利用料は月額の3,980円のみ</h2>
         <span class="position-absolute balloon balloon-right fs-5 fw-bold">解約も自由！</span> 
       </div>
       <div class="row row-cols-lg-2">
         <img class="img-fluid my-3 fadeIn" src="<?php echo get_template_directory_uri(); ?>/images/price3980.png" alt="">
         <div class="my-3 p-md-5">
-          <p class="mb-4">One Stop Rivは、月額定額制(サブスクリプション型)のホームページ制作サービスです。月額制なので製作費は0円、月額3,980円(+税)だけでご利用頂けます。</p>
+          <p class="mb-4">One Stop Rivは、月額定額制(サブスクリプション型)のホームページ制作サービスです。<br>月額制なので製作費は0円、月額3,980円(+税)だけで効果が出ておしゃれなホームページをご利用頂けます。</p>
           <p>※ご契約期間の縛り、早期解約の違約金は一切ないので、必要性を感じなくなればいつでもご解約頂けます。</p>
         </div>
       </div>
