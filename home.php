@@ -362,7 +362,7 @@
       </div>
       <div class="other industry-item pb-3">
         <h3 class="fadeIn">Company</h3>
-        <div class="title p-md-3 p-2 mt-md-5 my-4 shadow-sm scroll-left"><p>中小企業<span class="small">様々な業種にご対応</span></p></div>
+        <div class="title p-md-3 p-2 mt-md-5 my-4 shadow-sm scroll-left"><p>一般企業<span class="small">様々な業種にご対応</span></p></div>
         <div class="slide-wrap px-md-5 pb-3"> 
           <div class="slide-content">
             <a href="https://construction-1.netlify.app/" target="_blank">
